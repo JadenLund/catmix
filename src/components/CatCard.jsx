@@ -25,7 +25,6 @@ export default function CatCard() {
                     {/* if there is a cat breed, print it */}
                 </Card.Content>
             </Card>
-
         </>
     );
 };

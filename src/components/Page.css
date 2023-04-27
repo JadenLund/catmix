@@ -25,8 +25,17 @@
     grid-area: footer;
 }
 
-.marquee:hover {
+.marquee:hover,
+a:hover {
     cursor: url("../assets/Speckles_Kitty_paw-2.png.png"), auto;
+}
+
+
+
+.credits {
+    z-index: 1;
+    bottom: 50px;
+    position: absolute;
 }
 
 @keyframes MarqueeLeft {

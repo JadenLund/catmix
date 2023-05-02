@@ -1,3 +1,6 @@
+# What exactly is Catmix?
+This application is a cattastic application that uses particle effects and personally designed art to give you a visually appealing and feline focused app.
+
 # How to start running
 npm install
 npm run dev

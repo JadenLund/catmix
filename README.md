@@ -10,7 +10,7 @@ npm run dev
 #### [x] - add nice looking CSS
 #### [-] - make the icons disappear after my 30 seconds (changed idea)
 #### [x] - change cat cursor when clicked
-#### [ ] - make api of cat meow messages (changed idea)
+#### [-] - make api of cat meow messages (changed idea)
 #### [X] - make moving cat stuck to bottom of page
 #### [X] - make the cat images have a max size, or at least a set height
 #### [x] - Add module for this youtube video: https://www.youtube.com/watch?v=e1OWVKtAp7s&ab_channel=MorpheusSoftware
